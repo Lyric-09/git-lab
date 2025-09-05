@@ -94,4 +94,23 @@ Date:   Fri Sep 5 14:57:02 2025 -0400
 
     Initial commit
 
-answer 9
+answer 9 On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10 
+i don't see any changes
+
+answer 11 To https://github.com/Lyric-09/git-lab.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/Lyric-09/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Answer 12 Yes 
+
+answer 13 .  ..  .git  .gitignore  README.md
